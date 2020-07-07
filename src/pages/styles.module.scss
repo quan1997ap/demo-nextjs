@@ -1,0 +1,18 @@
+.nav-link {
+  text-decoration: none;
+}
+
+.active:after {
+  content: " (current page)";
+}
+
+.error {
+  color: white;
+  background-color: red;
+  &:hover {
+    background-color:blue;
+  }
+  .text{
+    color: yellow;
+  }
+}

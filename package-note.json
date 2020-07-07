@@ -1,0 +1,21 @@
+// call api
+"axios": "^0.19.2",
+"isomorphic-fetch": "^2.2.1",
+
+// call img in public folder
+"next-images": "^1.4.0",
+
+// overlay
+"react-loading-overlay": "^1.0.1",
+"react-spinners": "^0.9.0",
+
+// scss
+"css-loader": "^3.6.0",
+"scss": "^0.2.4",
+
+// main
+"camelcase-keys": "^6.2.2",
+"next": "latest",
+"react": "^16.7.0",
+"react-dom": "^16.7.0",
+"url-loader": "^4.1.0"

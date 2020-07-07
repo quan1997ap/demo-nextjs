@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/":[a],"/card/card-edit":[b],"/card/card-list":[b],"/index":[a]}}("static\u002Fcss\u002Fe32522362d6c4a4a4ec6.css","static\u002Fchunks\u002F286e6502568d4a31d3d79bd68b998dc6f451e257.c32c84eb06d322514ac1.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
